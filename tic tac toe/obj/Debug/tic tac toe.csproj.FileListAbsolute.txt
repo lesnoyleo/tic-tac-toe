@@ -1,0 +1,7 @@
+D:\EPAM\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csprojAssemblyReference.cache
+D:\EPAM\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+D:\EPAM\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+D:\EPAM\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+D:\EPAM\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+D:\EPAM\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+D:\EPAM\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb

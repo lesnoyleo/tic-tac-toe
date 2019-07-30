@@ -5,3 +5,10 @@ D:\EPAM\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
 D:\EPAM\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
 D:\EPAM\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
 D:\EPAM\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb
+C:\Users\lesnoy\Source\Repos\tic-tac-toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+C:\Users\lesnoy\Source\Repos\tic-tac-toe\tic tac toe\bin\Debug\tic tac toe.exe
+C:\Users\lesnoy\Source\Repos\tic-tac-toe\tic tac toe\bin\Debug\tic tac toe.pdb
+C:\Users\lesnoy\Source\Repos\tic-tac-toe\tic tac toe\obj\Debug\tic tac toe.csprojAssemblyReference.cache
+C:\Users\lesnoy\Source\Repos\tic-tac-toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\lesnoy\Source\Repos\tic-tac-toe\tic tac toe\obj\Debug\tic tac toe.exe
+C:\Users\lesnoy\Source\Repos\tic-tac-toe\tic tac toe\obj\Debug\tic tac toe.pdb

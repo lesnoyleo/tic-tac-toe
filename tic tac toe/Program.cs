@@ -16,6 +16,7 @@ namespace tic_tac_toe
             bool mbLoose = false;
             bool mbWin = false;
             int[,] pole = new int[3, 3] { { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 } }; //1 - its point player, 5 - pc;
+            Console.WriteLine("Привет");
 
             while (isWin)
             {
